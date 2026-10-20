@@ -1,0 +1,6 @@
+{
+  "name": "Yuvraj Downloader",
+  "description": "Fast, high-definition video downloader for Instagram Reels, Stories, and YouTube Shorts. Download MP4 videos, audio tracks, and high-res thumbnails with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
